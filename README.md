@@ -89,7 +89,7 @@ VALUES ('23Z320', 'Test User', 100.00);
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/sports-center-management.git
+   git clone https://github.com/tmdinesh/sports-center-management.git
    cd sports-center-management
    ```
 
