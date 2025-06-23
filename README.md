@@ -1,4 +1,4 @@
-# 🏟️ Sports Center Management System
+![image](https://github.com/user-attachments/assets/5f46f5cb-4dc0-40c6-a873-b9e60e4dfe69)# 🏟️ Sports Center Management System
 
 A desktop-based JavaFX application to manage user balances, sports activities, and activity tracking using barcode scanning and webcam input. Ideal for university sports facilities or similar setups.
 
@@ -105,12 +105,6 @@ VALUES ('23Z320', 'Test User', 100.00);
    mvn clean install
    mvn exec:java
    ```
-
----
-
-## 📸 Screenshots
-
-> Add GUI screenshots here (AdminDashboard, Scanner, Logs, etc.)
 
 ---
 
